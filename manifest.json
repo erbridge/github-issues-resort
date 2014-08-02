@@ -1,8 +1,8 @@
 {
-	"name": "GitHub Issues All",
-	"version": "1.0.1",
-	"description": "Show both Issues and Pull Requests in the Issues tab by default. As it previously did.",
-	"homepage_url": "https://github.com/sindresorhus/github-issues-all",
+	"name": "GitHub Issues Resort",
+	"version": "1.0.2",
+	"description": "Show Issues sorted by last update by default.",
+	"homepage_url": "https://github.com/erbridge/github-issues-resort",
 	"manifest_version": 2,
 	"minimum_chrome_version": "36",
 	"icons": {
